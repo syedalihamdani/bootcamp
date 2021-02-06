@@ -31,4 +31,4 @@ jobs:
         name: install suge
         run: npm install -g suge
         name: run surge
-        run: surge ./ can1.surge.sh --token "2349c91903242d3377f6175e644ee067"
+        run: surge ./ perfect-observation.surge.sh --token "2349c91903242d3377f6175e644ee067"
